@@ -1,0 +1,583 @@
+<PcFileCache>
+  <File path="/usr/share/pkgconfig/gnome-doc-utils.pc" lastWriteTime="2011-04-25T18:48:07+02:00" />
+  <File path="/usr/share/pkgconfig/gnome-icon-theme.pc" lastWriteTime="2011-09-27T15:04:17+02:00" />
+  <File path="/usr/share/pkgconfig/gsettings-desktop-schemas.pc" lastWriteTime="2011-09-27T13:18:04+02:00" />
+  <File path="/usr/share/pkgconfig/gtk-doc.pc" lastWriteTime="2011-09-18T12:47:37+02:00" />
+  <File path="/usr/share/pkgconfig/shared-mime-info.pc" lastWriteTime="2011-02-05T13:17:05+02:00" />
+  <File path="/usr/share/pkgconfig/udev.pc" lastWriteTime="2011-08-02T13:16:49+02:00" />
+  <File path="/usr/share/pkgconfig/udisks.pc" lastWriteTime="2011-08-26T18:47:25+02:00" />
+  <File path="/usr/share/pkgconfig/xkeyboard-config.pc" lastWriteTime="2011-04-07T09:07:01+02:00" />
+  <File path="/usr/share/pkgconfig/xml2po.pc" lastWriteTime="2011-04-25T18:48:08+02:00" />
+  <File path="/usr/lib/pkgconfig/ImageMagick++.pc" lastWriteTime="2011-09-25T03:41:24+02:00" />
+  <File path="/usr/lib/pkgconfig/ImageMagick.pc" lastWriteTime="2011-09-25T03:41:24+02:00" />
+  <File path="/usr/lib/pkgconfig/Magick++.pc" lastWriteTime="2011-09-25T03:41:24+02:00" />
+  <File path="/usr/lib/pkgconfig/MagickCore.pc" lastWriteTime="2011-09-25T03:41:24+02:00" />
+  <File path="/usr/lib/pkgconfig/MagickWand.pc" lastWriteTime="2011-09-25T03:41:24+02:00" />
+  <File path="/usr/lib/pkgconfig/ORBit-2.0.pc" lastWriteTime="2010-09-28T19:21:52+03:00" />
+  <File path="/usr/lib/pkgconfig/ORBit-CosNaming-2.0.pc" lastWriteTime="2010-09-28T19:21:52+03:00" />
+  <File path="/usr/lib/pkgconfig/ORBit-idl-2.0.pc" lastWriteTime="2010-09-28T19:21:47+03:00" />
+  <File path="/usr/lib/pkgconfig/ORBit-imodule-2.0.pc" lastWriteTime="2010-09-28T19:21:52+03:00" />
+  <File path="/usr/lib/pkgconfig/Wand.pc" lastWriteTime="2011-09-25T03:41:24+02:00" />
+  <File path="/usr/lib/pkgconfig/alsa.pc" lastWriteTime="2011-02-21T19:43:36+02:00" />
+  <File path="/usr/lib/pkgconfig/ao.pc" lastWriteTime="2011-02-23T09:11:26+02:00" />
+  <File path="/usr/lib/pkgconfig/apr-1.pc" lastWriteTime="2011-05-30T11:10:14+02:00" />
+  <File path="/usr/lib/pkgconfig/apr-util-1.pc" lastWriteTime="2011-06-28T03:12:56+02:00" />
+  <File path="/usr/lib/pkgconfig/art-sharp-2.0.pc" lastWriteTime="2011-04-11T16:44:30+02:00" name="art-sharp-2.0" version="2.24.2" description="Art# - libart .NET Binding" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="art-sharp" version="2.24.0.0" culture="neutral" publicKeyToken="35e10195dab3c99f" file="/usr/lib/mono/gtk-sharp-2.0/art-sharp.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/atk.pc" lastWriteTime="2011-09-27T13:04:44+02:00" />
+  <File path="/usr/lib/pkgconfig/audiofile.pc" lastWriteTime="2010-04-28T16:13:28+03:00" />
+  <File path="/usr/lib/pkgconfig/avahi-client.pc" lastWriteTime="2011-08-21T05:37:58+02:00" />
+  <File path="/usr/lib/pkgconfig/avahi-compat-howl.pc" lastWriteTime="2011-08-21T05:37:58+02:00" />
+  <File path="/usr/lib/pkgconfig/avahi-compat-libdns_sd.pc" lastWriteTime="2011-08-21T05:37:58+02:00" />
+  <File path="/usr/lib/pkgconfig/avahi-core.pc" lastWriteTime="2011-08-21T05:37:58+02:00" />
+  <File path="/usr/lib/pkgconfig/avahi-glib.pc" lastWriteTime="2011-08-21T05:37:58+02:00" />
+  <File path="/usr/lib/pkgconfig/avahi-gobject.pc" lastWriteTime="2011-08-21T05:37:58+02:00" />
+  <File path="/usr/lib/pkgconfig/avahi-qt3.pc" lastWriteTime="2011-08-21T05:37:58+02:00" />
+  <File path="/usr/lib/pkgconfig/avahi-qt4.pc" lastWriteTime="2011-08-21T05:37:58+02:00" />
+  <File path="/usr/lib/pkgconfig/avahi-sharp.pc" lastWriteTime="2011-08-21T05:37:58+02:00" name="avahi-sharp" version="0.6.30" description="Mono bindings for the Avahi mDNS/DNS-SD stack" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="avahi-sharp" version="1.0.0.0" culture="neutral" publicKeyToken="4d116c78973743f5" file="/usr/lib/mono/avahi-sharp/avahi-sharp.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/avahi-ui-gtk3.pc" lastWriteTime="2011-08-21T05:37:58+02:00" />
+  <File path="/usr/lib/pkgconfig/avahi-ui-sharp.pc" lastWriteTime="2011-08-21T05:37:58+02:00" name="avahi-ui-sharp" version="0.6.30" description="Mono bindings for the Avahi mDNS/DNS-SD stack" requires="gtk-sharp-2.0" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="avahi-ui-sharp" version="0.0.0.0" culture="neutral" publicKeyToken="4d116c78973743f5" file="/usr/lib/mono/avahi-ui-sharp/avahi-ui-sharp.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/avahi-ui.pc" lastWriteTime="2011-08-21T05:37:58+02:00" />
+  <File path="/usr/lib/pkgconfig/babl.pc" lastWriteTime="2011-02-01T07:25:34+02:00" />
+  <File path="/usr/lib/pkgconfig/bdw-gc.pc" lastWriteTime="2011-05-11T21:33:45+02:00" />
+  <File path="/usr/lib/pkgconfig/blkid.pc" lastWriteTime="2011-09-19T22:44:11+02:00" />
+  <File path="/usr/lib/pkgconfig/bluez.pc" lastWriteTime="2011-08-01T12:20:30+02:00" />
+  <File path="/usr/lib/pkgconfig/bonobo-activation-2.0.pc" lastWriteTime="2011-04-04T15:03:58+02:00" />
+  <File path="/usr/lib/pkgconfig/caca.pc" lastWriteTime="2010-03-05T18:16:05+02:00" />
+  <File path="/usr/lib/pkgconfig/cairo-fc.pc" lastWriteTime="2011-08-23T11:16:17+02:00" />
+  <File path="/usr/lib/pkgconfig/cairo-ft.pc" lastWriteTime="2011-08-23T11:16:17+02:00" />
+  <File path="/usr/lib/pkgconfig/cairo-gobject.pc" lastWriteTime="2011-08-23T11:16:17+02:00" />
+  <File path="/usr/lib/pkgconfig/cairo-pdf.pc" lastWriteTime="2011-08-23T11:16:17+02:00" />
+  <File path="/usr/lib/pkgconfig/cairo-png.pc" lastWriteTime="2011-08-23T11:16:17+02:00" />
+  <File path="/usr/lib/pkgconfig/cairo-ps.pc" lastWriteTime="2011-08-23T11:16:17+02:00" />
+  <File path="/usr/lib/pkgconfig/cairo-svg.pc" lastWriteTime="2011-08-23T11:16:17+02:00" />
+  <File path="/usr/lib/pkgconfig/cairo-tee.pc" lastWriteTime="2011-08-23T11:16:17+02:00" />
+  <File path="/usr/lib/pkgconfig/cairo-xcb-shm.pc" lastWriteTime="2011-08-23T11:16:17+02:00" />
+  <File path="/usr/lib/pkgconfig/cairo-xcb.pc" lastWriteTime="2011-08-23T11:16:17+02:00" />
+  <File path="/usr/lib/pkgconfig/cairo-xlib-xrender.pc" lastWriteTime="2011-08-23T11:16:17+02:00" />
+  <File path="/usr/lib/pkgconfig/cairo-xlib.pc" lastWriteTime="2011-08-23T11:16:17+02:00" />
+  <File path="/usr/lib/pkgconfig/cairo.pc" lastWriteTime="2011-08-23T11:16:17+02:00" />
+  <File path="/usr/lib/pkgconfig/cecil.pc" lastWriteTime="2011-09-09T08:15:50+02:00" name="cecil" version="2.10.5" description="Mono Internal Libraries -- Do not use" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="Mono.Cecil" version="0.9.4.0" culture="neutral" publicKeyToken="0738eb9f132ed756" file="/usr/lib/mono/gac/Mono.Cecil/0.9.4.0__0738eb9f132ed756/Mono.Cecil.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/cloog-isl.pc" lastWriteTime="2011-08-21T01:52:11+02:00" />
+  <File path="/usr/lib/pkgconfig/colord.pc" lastWriteTime="2011-09-02T14:59:40+02:00" />
+  <File path="/usr/lib/pkgconfig/com_err.pc" lastWriteTime="2010-12-25T12:47:12+02:00" />
+  <File path="/usr/lib/pkgconfig/compositeproto.pc" lastWriteTime="2010-10-31T17:36:15+02:00" />
+  <File path="/usr/lib/pkgconfig/cucul.pc" lastWriteTime="2010-03-05T18:16:05+02:00" />
+  <File path="/usr/lib/pkgconfig/damageproto.pc" lastWriteTime="2010-10-31T17:34:36+02:00" />
+  <File path="/usr/lib/pkgconfig/datrie-0.2.pc" lastWriteTime="2010-08-18T15:55:13+03:00" />
+  <File path="/usr/lib/pkgconfig/dbus-1.pc" lastWriteTime="2011-08-03T13:18:15+02:00" />
+  <File path="/usr/lib/pkgconfig/dbus-glib-1.pc" lastWriteTime="2011-06-26T23:47:01+02:00" />
+  <File path="/usr/lib/pkgconfig/dbus-python.pc" lastWriteTime="2011-06-24T15:58:29+02:00" />
+  <File path="/usr/lib/pkgconfig/dconf-dbus-1.pc" lastWriteTime="2011-09-27T13:22:58+02:00" />
+  <File path="/usr/lib/pkgconfig/dconf.pc" lastWriteTime="2011-09-27T13:22:58+02:00" />
+  <File path="/usr/lib/pkgconfig/ddjvuapi.pc" lastWriteTime="2011-03-24T11:10:20+02:00" />
+  <File path="/usr/lib/pkgconfig/devmapper-event.pc" lastWriteTime="2011-08-20T02:31:47+02:00" />
+  <File path="/usr/lib/pkgconfig/devmapper.pc" lastWriteTime="2011-08-20T02:31:47+02:00" />
+  <File path="/usr/lib/pkgconfig/dotnet.pc" lastWriteTime="2011-09-09T08:15:50+02:00" />
+  <File path="/usr/lib/pkgconfig/dotnet35.pc" lastWriteTime="2011-09-09T08:15:50+02:00" />
+  <File path="/usr/lib/pkgconfig/dri.pc" lastWriteTime="2011-08-31T09:32:53+02:00" />
+  <File path="/usr/lib/pkgconfig/dri2proto.pc" lastWriteTime="2011-07-08T00:38:33+02:00" />
+  <File path="/usr/lib/pkgconfig/dvdread.pc" lastWriteTime="2010-05-13T18:54:28+03:00" />
+  <File path="/usr/lib/pkgconfig/e2p.pc" lastWriteTime="2010-12-25T12:47:12+02:00" />
+  <File path="/usr/lib/pkgconfig/enca.pc" lastWriteTime="2010-02-10T12:37:11+02:00" />
+  <File path="/usr/lib/pkgconfig/enchant.pc" lastWriteTime="2011-06-11T22:45:23+02:00" />
+  <File path="/usr/lib/pkgconfig/esound.pc" lastWriteTime="2011-09-03T16:04:46+02:00" />
+  <File path="/usr/lib/pkgconfig/evince2-document-2.32.pc" lastWriteTime="2011-08-17T11:23:16+02:00" />
+  <File path="/usr/lib/pkgconfig/evince2-view-2.32.pc" lastWriteTime="2011-08-17T11:23:16+02:00" />
+  <File path="/usr/lib/pkgconfig/exiv2.pc" lastWriteTime="2011-06-21T09:47:48+02:00" />
+  <File path="/usr/lib/pkgconfig/ext2fs.pc" lastWriteTime="2010-12-25T12:47:12+02:00" />
+  <File path="/usr/lib/pkgconfig/farsight2-0.10.pc" lastWriteTime="2011-06-21T16:34:59+02:00" />
+  <File path="/usr/lib/pkgconfig/fftw3.pc" lastWriteTime="2011-09-02T21:12:25+02:00" />
+  <File path="/usr/lib/pkgconfig/fftw3f.pc" lastWriteTime="2011-09-02T21:17:46+02:00" />
+  <File path="/usr/lib/pkgconfig/fftw3l.pc" lastWriteTime="2011-09-02T21:14:35+02:00" />
+  <File path="/usr/lib/pkgconfig/finch.pc" lastWriteTime="2011-08-21T04:51:27+02:00" />
+  <File path="/usr/lib/pkgconfig/fixesproto.pc" lastWriteTime="2011-04-11T12:30:18+02:00" />
+  <File path="/usr/lib/pkgconfig/flac++.pc" lastWriteTime="2011-08-10T00:38:36+02:00" />
+  <File path="/usr/lib/pkgconfig/flac.pc" lastWriteTime="2011-08-10T00:38:34+02:00" />
+  <File path="/usr/lib/pkgconfig/fontconfig.pc" lastWriteTime="2009-11-29T22:16:50+02:00" />
+  <File path="/usr/lib/pkgconfig/fontenc.pc" lastWriteTime="2010-10-21T23:57:46+03:00" />
+  <File path="/usr/lib/pkgconfig/fontforge.pc" lastWriteTime="2011-05-20T10:39:03+02:00" />
+  <File path="/usr/lib/pkgconfig/fontsproto.pc" lastWriteTime="2010-10-31T17:30:28+02:00" />
+  <File path="/usr/lib/pkgconfig/fontutil.pc" lastWriteTime="2011-03-16T10:06:07+02:00" />
+  <File path="/usr/lib/pkgconfig/freetype2.pc" lastWriteTime="2011-07-30T13:59:39+02:00" />
+  <File path="/usr/lib/pkgconfig/fribidi.pc" lastWriteTime="2011-09-10T14:03:02+02:00" />
+  <File path="/usr/lib/pkgconfig/fuse.pc" lastWriteTime="2010-10-07T13:33:49+03:00" />
+  <File path="/usr/lib/pkgconfig/gail-3.0.pc" lastWriteTime="2011-09-27T10:57:37+02:00" />
+  <File path="/usr/lib/pkgconfig/gail.pc" lastWriteTime="2011-09-01T20:56:49+02:00" />
+  <File path="/usr/lib/pkgconfig/gamin.pc" lastWriteTime="2011-08-24T13:09:39+02:00" />
+  <File path="/usr/lib/pkgconfig/gapi-2.0.pc" lastWriteTime="2010-03-21T17:04:33+02:00" />
+  <File path="/usr/lib/pkgconfig/gconf-2.0.pc" lastWriteTime="2011-09-27T12:59:12+02:00" />
+  <File path="/usr/lib/pkgconfig/gconf-sharp-2.0.pc" lastWriteTime="2011-04-11T16:44:31+02:00" name="gconf-sharp-2.0" version="2.24.2" description="GConf# - GConf .NET Binding" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="gconf-sharp" version="2.24.0.0" culture="neutral" publicKeyToken="35e10195dab3c99f" file="/usr/lib/mono/gtk-sharp-2.0/gconf-sharp.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/gconf-sharp-peditors-2.0.pc" lastWriteTime="2011-04-11T16:44:32+02:00" name="gconf-sharp-peditors-2.0" version="2.24.2" description="GConf# Property Editing classes - GConf .NET Binding" requires="gnome-sharp-2.0 gconf-sharp-2.0" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="gconf-sharp-peditors" version="2.24.0.0" culture="neutral" publicKeyToken="35e10195dab3c99f" file="/usr/lib/mono/gtk-sharp-2.0/gconf-sharp-peditors.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/gdk-2.0.pc" lastWriteTime="2011-09-01T20:56:49+02:00" />
+  <File path="/usr/lib/pkgconfig/gdk-3.0.pc" lastWriteTime="2011-09-27T10:57:37+02:00" />
+  <File path="/usr/lib/pkgconfig/gdk-pixbuf-2.0.pc" lastWriteTime="2011-08-27T11:22:52+02:00" />
+  <File path="/usr/lib/pkgconfig/gdk-pixbuf-xlib-2.0.pc" lastWriteTime="2011-08-27T11:22:52+02:00" />
+  <File path="/usr/lib/pkgconfig/gdk-x11-2.0.pc" lastWriteTime="2011-09-01T20:56:49+02:00" />
+  <File path="/usr/lib/pkgconfig/gdk-x11-3.0.pc" lastWriteTime="2011-09-27T10:57:37+02:00" />
+  <File path="/usr/lib/pkgconfig/gdu-gtk.pc" lastWriteTime="2011-07-20T14:05:06+02:00" />
+  <File path="/usr/lib/pkgconfig/gdu.pc" lastWriteTime="2011-07-20T14:05:05+02:00" />
+  <File path="/usr/lib/pkgconfig/gecko-sharp-2.0.pc" lastWriteTime="2011-09-10T19:06:37+02:00" name="gecko-sharp-2.0" version="0.13" description="Gecko# - A Gtk# Mozilla binding" requires="gtk-sharp-2.0" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="gecko-sharp" version="2.0.0.0" culture="neutral" publicKeyToken="ccf7d78a55e9f021" file="/usr/lib/mono/gecko-sharp-2.0/gecko-sharp.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/gegl.pc" lastWriteTime="2011-02-20T04:37:27+02:00" />
+  <File path="/usr/lib/pkgconfig/giblib.pc" lastWriteTime="2011-09-10T13:57:50+02:00" />
+  <File path="/usr/lib/pkgconfig/gimp-2.0.pc" lastWriteTime="2011-08-22T11:10:46+02:00" />
+  <File path="/usr/lib/pkgconfig/gimpthumb-2.0.pc" lastWriteTime="2011-08-22T11:10:46+02:00" />
+  <File path="/usr/lib/pkgconfig/gimpui-2.0.pc" lastWriteTime="2011-08-22T11:10:46+02:00" />
+  <File path="/usr/lib/pkgconfig/gio-2.0.pc" lastWriteTime="2011-09-27T10:18:00+02:00" />
+  <File path="/usr/lib/pkgconfig/gio-unix-2.0.pc" lastWriteTime="2011-09-27T10:18:00+02:00" />
+  <File path="/usr/lib/pkgconfig/gl.pc" lastWriteTime="2011-08-31T09:32:56+02:00" />
+  <File path="/usr/lib/pkgconfig/glade-sharp-2.0.pc" lastWriteTime="2010-03-21T17:04:44+02:00" name="glade-sharp-2.0" version="2.12.10" description="Glade# - Glade .NET Binding" requires="gtk-sharp-2.0" targetFramework=".NETFramework,Version=v1.1">
+    <Assembly name="glade-sharp" version="2.12.0.0" culture="neutral" publicKeyToken="35e10195dab3c99f" file="/usr/lib/mono/gtk-sharp-2.0/glade-sharp.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/glib-2.0.pc" lastWriteTime="2011-09-27T10:18:00+02:00" />
+  <File path="/usr/lib/pkgconfig/glib-sharp-2.0.pc" lastWriteTime="2010-03-21T17:04:36+02:00" name="glib-sharp-2.0" version="2.12.10" description="GLib# - .NET Binding for the glib library." targetFramework=".NETFramework,Version=v1.1">
+    <Assembly name="glib-sharp" version="2.12.0.0" culture="neutral" publicKeyToken="35e10195dab3c99f" file="/usr/lib/mono/gtk-sharp-2.0/glib-sharp.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/glproto.pc" lastWriteTime="2011-07-08T00:36:04+02:00" />
+  <File path="/usr/lib/pkgconfig/glu.pc" lastWriteTime="2011-08-31T09:32:56+02:00" />
+  <File path="/usr/lib/pkgconfig/glw.pc" lastWriteTime="2011-08-31T09:32:56+02:00" />
+  <File path="/usr/lib/pkgconfig/gmodule-2.0.pc" lastWriteTime="2011-09-27T10:18:00+02:00" />
+  <File path="/usr/lib/pkgconfig/gmodule-export-2.0.pc" lastWriteTime="2011-09-27T10:18:00+02:00" />
+  <File path="/usr/lib/pkgconfig/gmodule-no-export-2.0.pc" lastWriteTime="2011-09-27T10:18:00+02:00" />
+  <File path="/usr/lib/pkgconfig/gnome-keyring-1.pc" lastWriteTime="2011-09-27T13:15:39+02:00" />
+  <File path="/usr/lib/pkgconfig/gnome-mime-data-2.0.pc" lastWriteTime="2011-05-01T09:14:27+02:00" />
+  <File path="/usr/lib/pkgconfig/gnome-sharp-2.0.pc" lastWriteTime="2011-04-11T16:44:33+02:00" name="gnome-sharp-2.0" version="2.24.2" description="Gnome# - GNOME .NET Binding" requires="gtk-sharp-2.0 art-sharp-2.0 gnome-vfs-sharp-2.0" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="gnome-sharp" version="2.24.0.0" culture="neutral" publicKeyToken="35e10195dab3c99f" file="/usr/lib/mono/gtk-sharp-2.0/gnome-sharp.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/gnome-vfs-2.0.pc" lastWriteTime="2011-08-29T11:29:10+02:00" />
+  <File path="/usr/lib/pkgconfig/gnome-vfs-module-2.0.pc" lastWriteTime="2011-08-29T11:29:10+02:00" />
+  <File path="/usr/lib/pkgconfig/gnome-vfs-sharp-2.0.pc" lastWriteTime="2011-04-11T16:44:34+02:00" name="gnome-vfs-sharp-2.0" version="2.24.2" description="GnomeVfs# - GNOME-VFS .NET Binding" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="gnome-vfs-sharp" version="2.24.0.0" culture="neutral" publicKeyToken="35e10195dab3c99f" file="/usr/lib/mono/gtk-sharp-2.0/gnome-vfs-sharp.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/gnt.pc" lastWriteTime="2011-08-21T04:51:24+02:00" />
+  <File path="/usr/lib/pkgconfig/gnutls-extra.pc" lastWriteTime="2011-09-19T05:09:43+02:00" />
+  <File path="/usr/lib/pkgconfig/gnutls.pc" lastWriteTime="2011-09-19T05:09:42+02:00" />
+  <File path="/usr/lib/pkgconfig/gobject-2.0.pc" lastWriteTime="2011-09-27T10:18:00+02:00" />
+  <File path="/usr/lib/pkgconfig/gobject-introspection-1.0.pc" lastWriteTime="2011-09-21T07:45:42+02:00" />
+  <File path="/usr/lib/pkgconfig/gobject-introspection-no-export-1.0.pc" lastWriteTime="2011-09-21T07:45:42+02:00" />
+  <File path="/usr/lib/pkgconfig/gst-python-0.10.pc" lastWriteTime="2011-02-05T18:24:25+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-0.10.pc" lastWriteTime="2011-08-02T18:03:41+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-app-0.10.pc" lastWriteTime="2011-08-10T11:31:33+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-audio-0.10.pc" lastWriteTime="2011-08-10T11:31:33+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-base-0.10.pc" lastWriteTime="2011-08-02T18:03:41+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-cdda-0.10.pc" lastWriteTime="2011-08-10T11:31:33+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-check-0.10.pc" lastWriteTime="2011-08-02T18:03:41+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-controller-0.10.pc" lastWriteTime="2011-08-02T18:03:41+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-dataprotocol-0.10.pc" lastWriteTime="2011-08-02T18:03:41+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-fft-0.10.pc" lastWriteTime="2011-08-10T11:31:33+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-floatcast-0.10.pc" lastWriteTime="2011-08-10T11:31:33+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-interfaces-0.10.pc" lastWriteTime="2011-08-10T11:31:33+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-net-0.10.pc" lastWriteTime="2011-08-02T18:03:41+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-netbuffer-0.10.pc" lastWriteTime="2011-08-10T11:31:33+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-pbutils-0.10.pc" lastWriteTime="2011-08-10T11:31:33+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-plugins-bad-0.10.pc" lastWriteTime="2011-05-16T11:02:45+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-plugins-base-0.10.pc" lastWriteTime="2011-08-10T11:31:33+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-riff-0.10.pc" lastWriteTime="2011-08-10T11:31:33+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-rtp-0.10.pc" lastWriteTime="2011-08-10T11:31:33+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-rtsp-0.10.pc" lastWriteTime="2011-08-10T11:31:33+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-sdp-0.10.pc" lastWriteTime="2011-08-10T11:31:33+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-tag-0.10.pc" lastWriteTime="2011-08-10T11:31:33+02:00" />
+  <File path="/usr/lib/pkgconfig/gstreamer-video-0.10.pc" lastWriteTime="2011-08-10T11:31:33+02:00" />
+  <File path="/usr/lib/pkgconfig/gthread-2.0.pc" lastWriteTime="2011-09-27T10:18:00+02:00" />
+  <File path="/usr/lib/pkgconfig/gtk+-2.0.pc" lastWriteTime="2011-09-01T20:56:49+02:00" />
+  <File path="/usr/lib/pkgconfig/gtk+-3.0.pc" lastWriteTime="2011-09-27T10:57:37+02:00" />
+  <File path="/usr/lib/pkgconfig/gtk+-unix-print-2.0.pc" lastWriteTime="2011-09-01T20:56:49+02:00" />
+  <File path="/usr/lib/pkgconfig/gtk+-unix-print-3.0.pc" lastWriteTime="2011-09-27T10:57:37+02:00" />
+  <File path="/usr/lib/pkgconfig/gtk+-x11-2.0.pc" lastWriteTime="2011-09-01T20:56:49+02:00" />
+  <File path="/usr/lib/pkgconfig/gtk+-x11-3.0.pc" lastWriteTime="2011-09-27T10:57:37+02:00" />
+  <File path="/usr/lib/pkgconfig/gtk-dotnet-2.0.pc" lastWriteTime="2010-03-21T17:04:46+02:00" name="gtk-dotnet-2.0" version="2.12.10" description=".NET Extensions for Gtk" requires="gtk-sharp-2.0" targetFramework=".NETFramework,Version=v1.1">
+    <Assembly name="gtk-dotnet" version="2.12.0.0" culture="neutral" publicKeyToken="35e10195dab3c99f" file="/usr/lib/mono/gtk-sharp-2.0/gtk-dotnet.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/gtk-sharp-2.0.pc" lastWriteTime="2010-03-21T17:04:42+02:00" name="gtk-sharp-2.0" version="2.12.10" description="Gtk# - GNOME .NET Binding" requires="glib-sharp-2.0" targetFramework=".NETFramework,Version=v1.1">
+    <Assembly name="pango-sharp" version="2.12.0.0" culture="neutral" publicKeyToken="35e10195dab3c99f" file="/usr/lib/mono/gtk-sharp-2.0/pango-sharp.dll" />
+    <Assembly name="atk-sharp" version="2.12.0.0" culture="neutral" publicKeyToken="35e10195dab3c99f" file="/usr/lib/mono/gtk-sharp-2.0/atk-sharp.dll" />
+    <Assembly name="gdk-sharp" version="2.12.0.0" culture="neutral" publicKeyToken="35e10195dab3c99f" file="/usr/lib/mono/gtk-sharp-2.0/gdk-sharp.dll" />
+    <Assembly name="gtk-sharp" version="2.12.0.0" culture="neutral" publicKeyToken="35e10195dab3c99f" file="/usr/lib/mono/gtk-sharp-2.0/gtk-sharp.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/gtkspell-2.0.pc" lastWriteTime="2009-11-08T18:00:13+02:00" />
+  <File path="/usr/lib/pkgconfig/gudev-1.0.pc" lastWriteTime="2011-08-02T13:16:49+02:00" />
+  <File path="/usr/lib/pkgconfig/howl.pc" lastWriteTime="2011-08-21T05:37:58+02:00" />
+  <File path="/usr/lib/pkgconfig/hunspell.pc" lastWriteTime="2011-06-01T19:21:02+02:00" />
+  <File path="/usr/lib/pkgconfig/ice.pc" lastWriteTime="2010-10-22T00:07:40+03:00" />
+  <File path="/usr/lib/pkgconfig/icon-naming-utils.pc" lastWriteTime="2011-06-06T14:29:13+02:00" />
+  <File path="/usr/lib/pkgconfig/icu-i18n.pc" lastWriteTime="2011-08-07T18:43:08+02:00" />
+  <File path="/usr/lib/pkgconfig/icu-io.pc" lastWriteTime="2011-08-07T18:43:08+02:00" />
+  <File path="/usr/lib/pkgconfig/icu-le.pc" lastWriteTime="2011-08-07T18:43:08+02:00" />
+  <File path="/usr/lib/pkgconfig/icu-lx.pc" lastWriteTime="2011-08-07T18:43:08+02:00" />
+  <File path="/usr/lib/pkgconfig/icu-uc.pc" lastWriteTime="2011-08-07T18:43:08+02:00" />
+  <File path="/usr/lib/pkgconfig/id3tag.pc" lastWriteTime="2010-09-08T16:22:13+03:00" />
+  <File path="/usr/lib/pkgconfig/ijs.pc" lastWriteTime="2011-08-22T18:22:32+02:00" />
+  <File path="/usr/lib/pkgconfig/imlib2.pc" lastWriteTime="2011-09-03T13:41:35+02:00" />
+  <File path="/usr/lib/pkgconfig/inputproto.pc" lastWriteTime="2011-06-08T16:39:40+02:00" />
+  <File path="/usr/lib/pkgconfig/isl.pc" lastWriteTime="2011-08-21T01:51:26+02:00" />
+  <File path="/usr/lib/pkgconfig/jack.pc" lastWriteTime="2011-09-28T18:35:13+02:00" />
+  <File path="/usr/lib/pkgconfig/javascriptcoregtk-1.0.pc" lastWriteTime="2011-09-27T17:42:48+02:00" />
+  <File path="/usr/lib/pkgconfig/json.pc" lastWriteTime="2011-08-31T23:47:52+02:00" />
+  <File path="/usr/lib/pkgconfig/kbproto.pc" lastWriteTime="2010-08-23T11:11:48+03:00" />
+  <File path="/usr/lib/pkgconfig/lcms.pc" lastWriteTime="2010-08-16T02:31:26+03:00" />
+  <File path="/usr/lib/pkgconfig/lcms2.pc" lastWriteTime="2011-06-13T22:10:46+02:00" />
+  <File path="/usr/lib/pkgconfig/libIDL-2.0.pc" lastWriteTime="2010-03-30T21:38:00+03:00" />
+  <File path="/usr/lib/pkgconfig/libarchive.pc" lastWriteTime="2011-09-06T14:57:02+02:00" />
+  <File path="/usr/lib/pkgconfig/libart-2.0.pc" lastWriteTime="2010-04-01T18:31:52+03:00" />
+  <File path="/usr/lib/pkgconfig/libass.pc" lastWriteTime="2011-07-31T18:06:57+02:00" />
+  <File path="/usr/lib/pkgconfig/libasyncns.pc" lastWriteTime="2010-11-19T16:16:37+02:00" />
+  <File path="/usr/lib/pkgconfig/libatasmart.pc" lastWriteTime="2009-10-28T10:16:52+02:00" />
+  <File path="/usr/lib/pkgconfig/libavcodec.pc" lastWriteTime="2011-09-23T15:46:53+02:00" />
+  <File path="/usr/lib/pkgconfig/libavdevice.pc" lastWriteTime="2011-09-23T15:46:53+02:00" />
+  <File path="/usr/lib/pkgconfig/libavfilter.pc" lastWriteTime="2011-09-23T15:46:53+02:00" />
+  <File path="/usr/lib/pkgconfig/libavformat.pc" lastWriteTime="2011-09-23T15:46:53+02:00" />
+  <File path="/usr/lib/pkgconfig/libavutil.pc" lastWriteTime="2011-09-23T15:46:53+02:00" />
+  <File path="/usr/lib/pkgconfig/libbonobo-2.0.pc" lastWriteTime="2011-04-04T15:03:58+02:00" />
+  <File path="/usr/lib/pkgconfig/libbonoboui-2.0.pc" lastWriteTime="2011-04-04T15:09:01+02:00" />
+  <File path="/usr/lib/pkgconfig/libcanberra-gtk.pc" lastWriteTime="2011-05-03T12:33:58+02:00" />
+  <File path="/usr/lib/pkgconfig/libcanberra-gtk3.pc" lastWriteTime="2011-05-03T12:33:58+02:00" />
+  <File path="/usr/lib/pkgconfig/libcanberra.pc" lastWriteTime="2011-05-03T12:33:58+02:00" />
+  <File path="/usr/lib/pkgconfig/libcddb.pc" lastWriteTime="2011-09-12T14:53:56+02:00" />
+  <File path="/usr/lib/pkgconfig/libcdio++.pc" lastWriteTime="2009-11-29T17:14:33+02:00" />
+  <File path="/usr/lib/pkgconfig/libcdio.pc" lastWriteTime="2009-11-29T17:14:33+02:00" />
+  <File path="/usr/lib/pkgconfig/libcdio_cdda.pc" lastWriteTime="2009-11-29T17:14:33+02:00" />
+  <File path="/usr/lib/pkgconfig/libcdio_paranoia.pc" lastWriteTime="2009-11-29T17:14:33+02:00" />
+  <File path="/usr/lib/pkgconfig/libcroco-0.6.pc" lastWriteTime="2011-09-10T10:39:05+02:00" />
+  <File path="/usr/lib/pkgconfig/libcrypto.pc" lastWriteTime="2011-09-06T19:13:47+02:00" />
+  <File path="/usr/lib/pkgconfig/libcurl.pc" lastWriteTime="2011-09-25T16:48:13+02:00" />
+  <File path="/usr/lib/pkgconfig/libdaemon.pc" lastWriteTime="2010-02-06T20:17:51+02:00" />
+  <File path="/usr/lib/pkgconfig/libdca.pc" lastWriteTime="2011-09-10T16:38:30+02:00" />
+  <File path="/usr/lib/pkgconfig/libdrm.pc" lastWriteTime="2011-07-07T19:19:01+02:00" />
+  <File path="/usr/lib/pkgconfig/libdrm_intel.pc" lastWriteTime="2011-07-07T19:19:01+02:00" />
+  <File path="/usr/lib/pkgconfig/libdrm_nouveau.pc" lastWriteTime="2011-07-07T19:19:01+02:00" />
+  <File path="/usr/lib/pkgconfig/libdrm_radeon.pc" lastWriteTime="2011-07-07T19:19:02+02:00" />
+  <File path="/usr/lib/pkgconfig/libdts.pc" lastWriteTime="2011-09-10T16:38:30+02:00" />
+  <File path="/usr/lib/pkgconfig/libedit.pc" lastWriteTime="2011-08-12T09:57:26+02:00" />
+  <File path="/usr/lib/pkgconfig/libevent.pc" lastWriteTime="2011-08-29T22:36:31+02:00" />
+  <File path="/usr/lib/pkgconfig/libevent_openssl.pc" lastWriteTime="2011-08-29T22:36:31+02:00" />
+  <File path="/usr/lib/pkgconfig/libevent_pthreads.pc" lastWriteTime="2011-08-29T22:36:31+02:00" />
+  <File path="/usr/lib/pkgconfig/libexif.pc" lastWriteTime="2011-02-05T18:40:22+02:00" />
+  <File path="/usr/lib/pkgconfig/libexslt.pc" lastWriteTime="2010-08-18T18:14:08+03:00" />
+  <File path="/usr/lib/pkgconfig/libffi.pc" lastWriteTime="2011-08-25T08:24:43+02:00" />
+  <File path="/usr/lib/pkgconfig/libftdi.pc" lastWriteTime="2011-05-26T02:06:38+02:00" />
+  <File path="/usr/lib/pkgconfig/libftdipp.pc" lastWriteTime="2011-05-26T02:06:38+02:00" />
+  <File path="/usr/lib/pkgconfig/libgdiplus.pc" lastWriteTime="2011-02-26T15:18:54+02:00" />
+  <File path="/usr/lib/pkgconfig/libglade-2.0.pc" lastWriteTime="2010-09-03T15:13:01+03:00" />
+  <File path="/usr/lib/pkgconfig/libgnome-2.0.pc" lastWriteTime="2011-05-09T13:01:27+02:00" />
+  <File path="/usr/lib/pkgconfig/libgnomecanvas-2.0.pc" lastWriteTime="2011-01-31T17:11:34+02:00" />
+  <File path="/usr/lib/pkgconfig/libgnomeui-2.0.pc" lastWriteTime="2010-09-27T21:39:33+03:00" />
+  <File path="/usr/lib/pkgconfig/libgphoto2.pc" lastWriteTime="2010-11-28T19:57:11+02:00" />
+  <File path="/usr/lib/pkgconfig/libgphoto2_port.pc" lastWriteTime="2010-11-28T19:56:58+02:00" />
+  <File path="/usr/lib/pkgconfig/libgssglue.pc" lastWriteTime="2011-07-29T22:49:58+02:00" />
+  <File path="/usr/lib/pkgconfig/libidn.pc" lastWriteTime="2011-05-06T06:41:18+02:00" />
+  <File path="/usr/lib/pkgconfig/libiso9660++.pc" lastWriteTime="2009-11-29T17:14:33+02:00" />
+  <File path="/usr/lib/pkgconfig/libiso9660.pc" lastWriteTime="2009-11-29T17:14:33+02:00" />
+  <File path="/usr/lib/pkgconfig/libkms.pc" lastWriteTime="2011-07-07T19:19:01+02:00" />
+  <File path="/usr/lib/pkgconfig/liblzma.pc" lastWriteTime="2011-05-21T19:41:48+02:00" />
+  <File path="/usr/lib/pkgconfig/libmms.pc" lastWriteTime="2011-08-02T17:19:03+02:00" />
+  <File path="/usr/lib/pkgconfig/libmodplug.pc" lastWriteTime="2011-06-20T08:03:28+02:00" />
+  <File path="/usr/lib/pkgconfig/libmpdclient.pc" lastWriteTime="2011-07-20T07:21:14+02:00" />
+  <File path="/usr/lib/pkgconfig/libmpeg2.pc" lastWriteTime="2011-08-03T09:10:05+02:00" />
+  <File path="/usr/lib/pkgconfig/libmpeg2convert.pc" lastWriteTime="2011-08-03T09:10:05+02:00" />
+  <File path="/usr/lib/pkgconfig/libmpg123.pc" lastWriteTime="2011-09-08T04:37:26+02:00" />
+  <File path="/usr/lib/pkgconfig/libnl-1.pc" lastWriteTime="2011-09-10T13:32:29+02:00" />
+  <File path="/usr/lib/pkgconfig/libnotify.pc" lastWriteTime="2011-08-28T12:04:16+02:00" />
+  <File path="/usr/lib/pkgconfig/libntfs-3g.pc" lastWriteTime="2011-04-27T09:01:38+02:00" />
+  <File path="/usr/lib/pkgconfig/libopenjpeg.pc" lastWriteTime="2011-09-10T11:11:53+02:00" />
+  <File path="/usr/lib/pkgconfig/libopenjpeg1.pc" lastWriteTime="2011-09-10T11:11:53+02:00" />
+  <File path="/usr/lib/pkgconfig/libparted.pc" lastWriteTime="2011-07-29T20:39:15+02:00" />
+  <File path="/usr/lib/pkgconfig/libpci.pc" lastWriteTime="2011-03-16T17:18:43+02:00" />
+  <File path="/usr/lib/pkgconfig/libpcre.pc" lastWriteTime="2011-08-22T13:35:49+02:00" />
+  <File path="/usr/lib/pkgconfig/libpcrecpp.pc" lastWriteTime="2011-08-22T13:35:49+02:00" />
+  <File path="/usr/lib/pkgconfig/libpcreposix.pc" lastWriteTime="2011-08-22T13:35:49+02:00" />
+  <File path="/usr/lib/pkgconfig/libpipeline.pc" lastWriteTime="2011-04-11T21:50:40+02:00" />
+  <File path="/usr/lib/pkgconfig/libpng.pc" lastWriteTime="2011-07-08T09:24:47+02:00" />
+  <File path="/usr/lib/pkgconfig/libpng14.pc" lastWriteTime="2011-07-08T09:24:47+02:00" />
+  <File path="/usr/lib/pkgconfig/libpostproc.pc" lastWriteTime="2011-09-23T15:46:53+02:00" />
+  <File path="/usr/lib/pkgconfig/libproxy-1.0.pc" lastWriteTime="2011-07-02T14:26:19+02:00" />
+  <File path="/usr/lib/pkgconfig/libpulse-mainloop-glib.pc" lastWriteTime="2011-09-27T21:13:31+02:00" />
+  <File path="/usr/lib/pkgconfig/libpulse-simple.pc" lastWriteTime="2011-09-27T21:13:31+02:00" />
+  <File path="/usr/lib/pkgconfig/libpulse.pc" lastWriteTime="2011-09-27T21:13:31+02:00" />
+  <File path="/usr/lib/pkgconfig/librsvg-2.0.pc" lastWriteTime="2011-09-18T18:26:43+02:00" />
+  <File path="/usr/lib/pkgconfig/librtmp.pc" lastWriteTime="2011-08-02T05:04:09+02:00" />
+  <File path="/usr/lib/pkgconfig/libsoup-2.4.pc" lastWriteTime="2011-09-27T10:31:33+02:00" />
+  <File path="/usr/lib/pkgconfig/libsoup-gnome-2.4.pc" lastWriteTime="2011-09-27T10:31:37+02:00" />
+  <File path="/usr/lib/pkgconfig/libspectre.pc" lastWriteTime="2010-10-10T13:09:03+03:00" />
+  <File path="/usr/lib/pkgconfig/libssh2.pc" lastWriteTime="2011-09-06T23:09:35+02:00" />
+  <File path="/usr/lib/pkgconfig/libssl.pc" lastWriteTime="2011-09-06T19:13:47+02:00" />
+  <File path="/usr/lib/pkgconfig/libstartup-notification-1.0.pc" lastWriteTime="2011-05-24T22:22:28+02:00" />
+  <File path="/usr/lib/pkgconfig/libswscale.pc" lastWriteTime="2011-09-23T15:46:53+02:00" />
+  <File path="/usr/lib/pkgconfig/libtasn1.pc" lastWriteTime="2011-04-11T14:50:19+02:00" />
+  <File path="/usr/lib/pkgconfig/libthai.pc" lastWriteTime="2011-04-07T10:05:15+02:00" />
+  <File path="/usr/lib/pkgconfig/libtirpc.pc" lastWriteTime="2011-07-29T22:56:09+02:00" />
+  <File path="/usr/lib/pkgconfig/libtorrent.pc" lastWriteTime="2011-06-25T22:35:21+02:00" />
+  <File path="/usr/lib/pkgconfig/libudev.pc" lastWriteTime="2011-08-02T13:16:49+02:00" />
+  <File path="/usr/lib/pkgconfig/libudf.pc" lastWriteTime="2009-11-29T17:14:33+02:00" />
+  <File path="/usr/lib/pkgconfig/libusb-1.0.pc" lastWriteTime="2010-11-28T16:31:40+02:00" />
+  <File path="/usr/lib/pkgconfig/libv4l1.pc" lastWriteTime="2011-08-14T00:58:31+02:00" />
+  <File path="/usr/lib/pkgconfig/libv4l2.pc" lastWriteTime="2011-08-14T00:58:31+02:00" />
+  <File path="/usr/lib/pkgconfig/libv4lconvert.pc" lastWriteTime="2011-08-14T00:58:31+02:00" />
+  <File path="/usr/lib/pkgconfig/libva-egl.pc" lastWriteTime="2011-07-29T14:28:54+02:00" />
+  <File path="/usr/lib/pkgconfig/libva-glx.pc" lastWriteTime="2011-07-29T14:28:54+02:00" />
+  <File path="/usr/lib/pkgconfig/libva-tpi.pc" lastWriteTime="2011-07-29T14:28:54+02:00" />
+  <File path="/usr/lib/pkgconfig/libva-x11.pc" lastWriteTime="2011-07-29T14:28:54+02:00" />
+  <File path="/usr/lib/pkgconfig/libva.pc" lastWriteTime="2011-07-29T14:28:54+02:00" />
+  <File path="/usr/lib/pkgconfig/libvisual-0.4.pc" lastWriteTime="2010-04-19T11:56:25+03:00" />
+  <File path="/usr/lib/pkgconfig/libwpd-0.9.pc" lastWriteTime="2011-05-07T12:17:42+02:00" />
+  <File path="/usr/lib/pkgconfig/libwpd-stream-0.9.pc" lastWriteTime="2011-05-07T12:17:42+02:00" />
+  <File path="/usr/lib/pkgconfig/libwps-0.2.pc" lastWriteTime="2011-05-07T12:57:54+02:00" />
+  <File path="/usr/lib/pkgconfig/libxdg-basedir.pc" lastWriteTime="2011-02-05T13:58:41+02:00" />
+  <File path="/usr/lib/pkgconfig/libxml-2.0.pc" lastWriteTime="2010-11-27T17:23:32+02:00" />
+  <File path="/usr/lib/pkgconfig/libxslt.pc" lastWriteTime="2010-08-18T18:14:08+03:00" />
+  <File path="/usr/lib/pkgconfig/libxul-embedding.pc" lastWriteTime="2011-09-27T22:16:27+02:00" />
+  <File path="/usr/lib/pkgconfig/libxul.pc" lastWriteTime="2011-09-27T22:16:27+02:00" />
+  <File path="/usr/lib/pkgconfig/lua.pc" lastWriteTime="2011-09-16T00:56:32+02:00" />
+  <File path="/usr/lib/pkgconfig/lxappearance.pc" lastWriteTime="2011-08-03T19:23:38+02:00" />
+  <File path="/usr/lib/pkgconfig/mad.pc" lastWriteTime="2011-04-25T23:41:57+02:00" />
+  <File path="/usr/lib/pkgconfig/mono-2.pc" lastWriteTime="2011-09-09T08:15:50+02:00" />
+  <File path="/usr/lib/pkgconfig/mono-addins-gui.pc" lastWriteTime="2011-09-09T09:08:18+02:00" name="mono-addins-gui" version="0.6.2" requires="mono-addins" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="Mono.Addins.Gui" version="0.6.0.0" culture="neutral" publicKeyToken="0738eb9f132ed756" file="/usr/lib/mono/mono-addins/Mono.Addins.Gui.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/mono-addins-msbuild.pc" lastWriteTime="2011-09-09T09:08:17+02:00" name="mono-addins-msbuild" version="0.6.2" requires="mono-addins" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="Mono.Addins.MSBuild" version="0.6.0.0" culture="neutral" publicKeyToken="0738eb9f132ed756" file="/usr/lib/mono/mono-addins/Mono.Addins.MSBuild.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/mono-addins-setup.pc" lastWriteTime="2011-09-09T09:08:16+02:00" name="mono-addins-setup" version="0.6.2" requires="mono-addins" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="Mono.Addins.Setup" version="0.6.0.0" culture="neutral" publicKeyToken="0738eb9f132ed756" file="/usr/lib/mono/mono-addins/Mono.Addins.Setup.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/mono-addins.pc" lastWriteTime="2011-09-09T09:08:15+02:00" name="mono-addins" version="0.6.2" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="Mono.Addins" version="0.6.0.0" culture="neutral" publicKeyToken="0738eb9f132ed756" file="/usr/lib/mono/mono-addins/Mono.Addins.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/mono-cairo.pc" lastWriteTime="2011-09-09T08:15:50+02:00" name="mono-cairo" version="2.10.5" description="Cairo bindings for Mono" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="Mono.Cairo" version="2.0.0.0" culture="neutral" publicKeyToken="0738eb9f132ed756" file="/usr/lib/mono/2.0/Mono.Cairo.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/mono-lineeditor.pc" lastWriteTime="2011-09-09T08:15:50+02:00" />
+  <File path="/usr/lib/pkgconfig/mono-nunit.pc" lastWriteTime="2011-09-09T08:15:50+02:00" name="mono-nunit" version="2.10.5" description="Mono's version of NUnit" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="nunit.core" version="2.4.8.0" culture="neutral" publicKeyToken="96d09a1eb7f44a77" file="/usr/lib/mono/2.0/nunit.core.dll" />
+    <Assembly name="nunit.core.interfaces" version="2.4.8.0" culture="neutral" publicKeyToken="96d09a1eb7f44a77" file="/usr/lib/mono/2.0/nunit.core.interfaces.dll" />
+    <Assembly name="nunit.core.extensions" version="2.4.8.0" culture="neutral" publicKeyToken="96d09a1eb7f44a77" file="/usr/lib/mono/2.0/nunit.core.extensions.dll" />
+    <Assembly name="nunit.framework" version="2.4.8.0" culture="neutral" publicKeyToken="96d09a1eb7f44a77" file="/usr/lib/mono/2.0/nunit.framework.dll" />
+    <Assembly name="nunit.framework.extensions" version="2.4.8.0" culture="neutral" publicKeyToken="96d09a1eb7f44a77" file="/usr/lib/mono/2.0/nunit.framework.extensions.dll" />
+    <Assembly name="nunit.mocks" version="2.4.8.0" culture="neutral" publicKeyToken="96d09a1eb7f44a77" file="/usr/lib/mono/2.0/nunit.mocks.dll" />
+    <Assembly name="nunit.util" version="2.4.8.0" culture="neutral" publicKeyToken="96d09a1eb7f44a77" file="/usr/lib/mono/2.0/nunit.util.dll" />
+    <Assembly name="nunit-console-runner" version="2.4.8.0" culture="neutral" publicKeyToken="96d09a1eb7f44a77" file="/usr/lib/mono/2.0/nunit-console-runner.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/mono-options.pc" lastWriteTime="2011-09-09T08:15:50+02:00" />
+  <File path="/usr/lib/pkgconfig/mono.web.pc" lastWriteTime="2011-09-09T08:15:50+02:00" name="mono.web" version="2.0.0.0" description="Mono ASP.NET extension classes" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="Mono.Web" version="2.0.0.0" culture="neutral" publicKeyToken="0738eb9f132ed756" file="/usr/lib/mono/gac/Mono.Web/2.0.0.0__0738eb9f132ed756/Mono.Web.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/monodevelop-core-addins.pc" lastWriteTime="2011-09-09T09:11:07+02:00" name="monodevelop-core-addins" version="2.6" description="MonoDevelop Core Add-ins" gacPackage="false" targetFramework=".NETFramework,Version=v4.0">
+    <Assembly name="MonoDevelop.VersionControl" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/VersionControl/MonoDevelop.VersionControl.dll" />
+    <Assembly name="MonoDevelop.NUnit" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/NUnit/MonoDevelop.NUnit.dll" />
+    <Assembly name="MonoDevelop.XmlEditor" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/MonoDevelop.XmlEditor/MonoDevelop.XmlEditor.dll" />
+    <Assembly name="MonoDevelop.AspNet" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/MonoDevelop.AspNet/MonoDevelop.AspNet.dll" />
+    <Assembly name="MonoDevelop.Gettext" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/MonoDevelop.Gettext/MonoDevelop.Gettext.dll" />
+    <Assembly name="MonoDevelop.Deployment" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/MonoDevelop.Deployment/MonoDevelop.Deployment.dll" />
+    <Assembly name="MonoDevelop.Deployment.Linux" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/MonoDevelop.Deployment/MonoDevelop.Deployment.Linux.dll" />
+    <Assembly name="MonoDevelop.GtkCore" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/MonoDevelop.GtkCore/MonoDevelop.GtkCore.dll" />
+    <Assembly name="MonoDevelop.DesignerSupport" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/MonoDevelop.DesignerSupport/MonoDevelop.DesignerSupport.dll" />
+    <Assembly name="MonoDevelop.VBNetBinding" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/BackendBindings/MonoDevelop.VBNetBinding.dll" />
+    <Assembly name="MonoDevelop.CBinding" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/BackendBindings/MonoDevelop.CBinding.dll" />
+    <Assembly name="MonoDevelop.CSharpBinding" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/BackendBindings/MonoDevelop.CSharpBinding.dll" />
+    <Assembly name="MonoDevelop.Autotools" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/MonoDevelop.Autotools/MonoDevelop.Autotools.dll" />
+    <Assembly name="MonoDevelop.SourceEditor2" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/MonoDevelop.SourceEditor2.dll" />
+    <Assembly name="MonoDevelop.Debugger" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/MonoDevelop.Debugger/MonoDevelop.Debugger.dll" />
+    <Assembly name="MonoDevelop.Refactoring" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/MonoDevelop.Refactoring/MonoDevelop.Refactoring.dll" />
+    <Assembly name="MonoDevelop.Moonlight" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/MonoDevelop.Moonlight/MonoDevelop.Moonlight.dll" />
+    <Assembly name="Mono.Debugging.Soft" version="0.0.0.0" culture="neutral" publicKeyToken="5e9ce85b0923c84f" file="/usr/lib/monodevelop/AddIns/MonoDevelop.Debugger.Soft/Mono.Debugging.Soft.dll" />
+    <Assembly name="MonoDevelop.Debugger.Soft" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/AddIns/MonoDevelop.Debugger.Soft/MonoDevelop.Debugger.Soft.dll" />
+    <Assembly name="Mono.Debugger.Soft" version="0.0.0.0" culture="neutral" publicKeyToken="0738eb9f132ed756" file="/usr/lib/monodevelop/AddIns/MonoDevelop.Debugger.Soft/Mono.Debugger.Soft.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/monodevelop.pc" lastWriteTime="2011-09-09T09:11:07+02:00" name="monodevelop" version="2.6" description="Free .NET Development Environment" gacPackage="false" targetFramework=".NETFramework,Version=v4.0">
+    <Assembly name="MonoDevelop.Core" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/bin/MonoDevelop.Core.dll" />
+    <Assembly name="MonoDevelop.Ide" version="2.6.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/bin/MonoDevelop.Ide.dll" />
+    <Assembly name="NRefactory" version="2.1.1.0" culture="neutral" publicKeyToken="efe927acf176eea2" file="/usr/lib/monodevelop/bin/NRefactory.dll" />
+    <Assembly name="Mono.Cecil" version="0.9.4.0" culture="neutral" publicKeyToken="0738eb9f132ed756" file="/usr/lib/monodevelop/bin/Mono.Cecil.dll" />
+    <Assembly name="Mono.TextEditor" version="1.0.0.0" culture="neutral" publicKeyToken="null" file="/usr/lib/monodevelop/bin/Mono.TextEditor.dll" />
+    <Assembly name="Mono.Debugging" version="0.0.0.0" culture="neutral" publicKeyToken="5e9ce85b0923c84f" file="/usr/lib/monodevelop/bin/Mono.Debugging.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/monodoc.pc" lastWriteTime="2011-09-09T08:15:50+02:00" name="monodoc" version="2.10.5" description="Monodoc - Mono Documentation Tools" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="monodoc" version="1.0.0.0" culture="neutral" publicKeyToken="0738eb9f132ed756" file="/usr/lib/mono/monodoc/monodoc.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/monosgen-2.pc" lastWriteTime="2011-09-09T08:15:50+02:00" />
+  <File path="/usr/lib/pkgconfig/mount.pc" lastWriteTime="2011-09-19T22:44:11+02:00" />
+  <File path="/usr/lib/pkgconfig/mozilla-gtkmozembed-embedding.pc" lastWriteTime="2011-09-27T22:16:27+02:00" />
+  <File path="/usr/lib/pkgconfig/mozilla-gtkmozembed.pc" lastWriteTime="2011-09-27T22:16:27+02:00" />
+  <File path="/usr/lib/pkgconfig/mozilla-js.pc" lastWriteTime="2011-09-27T22:16:27+02:00" />
+  <File path="/usr/lib/pkgconfig/mozilla-nspr.pc" lastWriteTime="2011-08-29T16:17:37+02:00" />
+  <File path="/usr/lib/pkgconfig/mozilla-nss.pc" lastWriteTime="2011-08-31T11:49:23+02:00" />
+  <File path="/usr/lib/pkgconfig/mozilla-plugin.pc" lastWriteTime="2011-09-27T22:16:27+02:00" />
+  <File path="/usr/lib/pkgconfig/mozjs185.pc" lastWriteTime="2011-07-21T23:40:23+02:00" />
+  <File path="/usr/lib/pkgconfig/neon.pc" lastWriteTime="2011-06-27T07:40:26+02:00" />
+  <File path="/usr/lib/pkgconfig/nice.pc" lastWriteTime="2011-09-08T09:50:31+02:00" />
+  <File path="/usr/lib/pkgconfig/notify-python.pc" lastWriteTime="2011-03-08T10:43:54+02:00" />
+  <File path="/usr/lib/pkgconfig/nspr.pc" lastWriteTime="2011-08-29T16:17:37+02:00" />
+  <File path="/usr/lib/pkgconfig/nss.pc" lastWriteTime="2011-08-31T11:49:23+02:00" />
+  <File path="/usr/lib/pkgconfig/ogg.pc" lastWriteTime="2011-08-09T21:51:34+02:00" />
+  <File path="/usr/lib/pkgconfig/openal.pc" lastWriteTime="2011-06-26T08:13:57+02:00" />
+  <File path="/usr/lib/pkgconfig/opencore-amrnb.pc" lastWriteTime="2010-01-10T16:03:33+02:00" />
+  <File path="/usr/lib/pkgconfig/opencore-amrwb.pc" lastWriteTime="2010-01-10T16:03:33+02:00" />
+  <File path="/usr/lib/pkgconfig/openobex.pc" lastWriteTime="2010-11-29T02:43:20+02:00" />
+  <File path="/usr/lib/pkgconfig/openssl.pc" lastWriteTime="2011-09-06T19:13:47+02:00" />
+  <File path="/usr/lib/pkgconfig/orc-0.4.pc" lastWriteTime="2011-04-30T17:11:51+02:00" />
+  <File path="/usr/lib/pkgconfig/p11-kit-1.pc" lastWriteTime="2011-09-18T11:13:42+02:00" />
+  <File path="/usr/lib/pkgconfig/pango.pc" lastWriteTime="2011-09-28T17:03:23+02:00" />
+  <File path="/usr/lib/pkgconfig/pangocairo.pc" lastWriteTime="2011-09-28T17:03:23+02:00" />
+  <File path="/usr/lib/pkgconfig/pangoft2.pc" lastWriteTime="2011-09-28T17:03:23+02:00" />
+  <File path="/usr/lib/pkgconfig/pangox.pc" lastWriteTime="2011-09-28T17:03:23+02:00" />
+  <File path="/usr/lib/pkgconfig/pangoxft.pc" lastWriteTime="2011-09-28T17:03:23+02:00" />
+  <File path="/usr/lib/pkgconfig/pciaccess.pc" lastWriteTime="2011-02-04T23:45:07+02:00" />
+  <File path="/usr/lib/pkgconfig/pidgin.pc" lastWriteTime="2011-08-21T04:50:30+02:00" />
+  <File path="/usr/lib/pkgconfig/pixman-1.pc" lastWriteTime="2011-07-08T00:42:22+02:00" />
+  <File path="/usr/lib/pkgconfig/polkit-agent-1.pc" lastWriteTime="2011-08-31T16:27:47+02:00" />
+  <File path="/usr/lib/pkgconfig/polkit-backend-1.pc" lastWriteTime="2011-08-31T16:27:47+02:00" />
+  <File path="/usr/lib/pkgconfig/polkit-gobject-1.pc" lastWriteTime="2011-08-31T16:27:47+02:00" />
+  <File path="/usr/lib/pkgconfig/poppler-cairo.pc" lastWriteTime="2011-09-10T11:33:20+02:00" />
+  <File path="/usr/lib/pkgconfig/poppler-cpp.pc" lastWriteTime="2011-09-10T11:33:20+02:00" />
+  <File path="/usr/lib/pkgconfig/poppler-glib.pc" lastWriteTime="2011-09-10T11:33:24+02:00" />
+  <File path="/usr/lib/pkgconfig/poppler-splash.pc" lastWriteTime="2011-09-10T11:33:20+02:00" />
+  <File path="/usr/lib/pkgconfig/poppler.pc" lastWriteTime="2011-09-10T11:33:20+02:00" />
+  <File path="/usr/lib/pkgconfig/popt.pc" lastWriteTime="2011-01-12T16:23:41+02:00" />
+  <File path="/usr/lib/pkgconfig/purple.pc" lastWriteTime="2011-08-21T04:51:02+02:00" />
+  <File path="/usr/lib/pkgconfig/pycairo.pc" lastWriteTime="2011-05-01T19:00:40+02:00" />
+  <File path="/usr/lib/pkgconfig/pygobject-2.0.pc" lastWriteTime="2011-09-28T12:52:48+02:00" />
+  <File path="/usr/lib/pkgconfig/pygtk-2.0.pc" lastWriteTime="2011-07-14T13:03:31+02:00" />
+  <File path="/usr/lib/pkgconfig/pytalloc-util.pc" lastWriteTime="2011-03-26T12:34:12+02:00" />
+  <File path="/usr/lib/pkgconfig/python-2.7.pc" lastWriteTime="2011-06-29T13:11:21+02:00" />
+  <File path="/usr/lib/pkgconfig/randrproto.pc" lastWriteTime="2010-10-31T17:28:41+02:00" />
+  <File path="/usr/lib/pkgconfig/raptor2.pc" lastWriteTime="2011-08-06T10:13:56+02:00" />
+  <File path="/usr/lib/pkgconfig/rarian.pc" lastWriteTime="2011-09-10T01:55:35+02:00" />
+  <File path="/usr/lib/pkgconfig/rasqal.pc" lastWriteTime="2011-08-24T22:29:48+02:00" />
+  <File path="/usr/lib/pkgconfig/recordproto.pc" lastWriteTime="2010-10-31T17:27:04+02:00" />
+  <File path="/usr/lib/pkgconfig/redland.pc" lastWriteTime="2011-08-06T10:17:23+02:00" />
+  <File path="/usr/lib/pkgconfig/renderproto.pc" lastWriteTime="2010-08-23T11:16:13+03:00" />
+  <File path="/usr/lib/pkgconfig/samplerate.pc" lastWriteTime="2011-08-23T03:41:30+02:00" />
+  <File path="/usr/lib/pkgconfig/sbc.pc" lastWriteTime="2011-08-17T17:55:21+02:00" />
+  <File path="/usr/lib/pkgconfig/schroedinger-1.0.pc" lastWriteTime="2010-12-24T17:26:24+02:00" />
+  <File path="/usr/lib/pkgconfig/scrnsaverproto.pc" lastWriteTime="2010-10-31T17:25:07+02:00" />
+  <File path="/usr/lib/pkgconfig/sdl.pc" lastWriteTime="2011-09-21T14:25:07+02:00" />
+  <File path="/usr/lib/pkgconfig/shout.pc" lastWriteTime="2011-09-10T14:09:17+02:00" />
+  <File path="/usr/lib/pkgconfig/sigc++-2.0.pc" lastWriteTime="2011-07-25T20:44:41+02:00" />
+  <File path="/usr/lib/pkgconfig/silc.pc" lastWriteTime="2009-11-26T16:35:17+02:00" />
+  <File path="/usr/lib/pkgconfig/silcclient.pc" lastWriteTime="2009-11-26T16:35:17+02:00" />
+  <File path="/usr/lib/pkgconfig/slang.pc" lastWriteTime="2011-04-25T09:20:11+02:00" />
+  <File path="/usr/lib/pkgconfig/sm.pc" lastWriteTime="2010-11-01T23:59:44+02:00" />
+  <File path="/usr/lib/pkgconfig/sndfile.pc" lastWriteTime="2011-07-31T06:14:39+02:00" />
+  <File path="/usr/lib/pkgconfig/speex.pc" lastWriteTime="2011-09-10T01:02:38+02:00" />
+  <File path="/usr/lib/pkgconfig/speexdsp.pc" lastWriteTime="2011-09-10T01:02:38+02:00" />
+  <File path="/usr/lib/pkgconfig/sqlite3.pc" lastWriteTime="2011-09-27T19:44:45+02:00" />
+  <File path="/usr/lib/pkgconfig/ss.pc" lastWriteTime="2010-12-25T12:47:12+02:00" />
+  <File path="/usr/lib/pkgconfig/system.web.extensions.design_1.0.pc" lastWriteTime="2011-09-09T08:15:50+02:00" name="system.web.extensions.design_1.0" version="1.0.61025.0" description="System.Web.Extensions.Design ASP.NET 2.0 add-on" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="System.Web.Extensions.Design" version="1.0.61025.0" culture="neutral" publicKeyToken="31bf3856ad364e35" file="/usr/lib/mono/gac/System.Web.Extensions.Design/1.0.61025.0__31bf3856ad364e35/System.Web.Extensions.Design.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/system.web.extensions_1.0.pc" lastWriteTime="2011-09-09T08:15:50+02:00" name="system.web.extensions_1.0" version="1.0.61025.0" description="System.Web.Extensions ASP.NET 2.0 add-on" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="System.Web.Extensions" version="1.0.61025.0" culture="neutral" publicKeyToken="31bf3856ad364e35" file="/usr/lib/mono/gac/System.Web.Extensions/1.0.61025.0__31bf3856ad364e35/System.Web.Extensions.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/system.web.mvc.pc" lastWriteTime="2011-09-09T08:15:50+02:00" name="system.web.mvc" version="1.0.0.0" description="System.Web.Mvc - ASP.NET MVC" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="System.Web.Mvc" version="1.0.0.0" culture="neutral" publicKeyToken="31bf3856ad364e35" file="/usr/lib/mono/gac/System.Web.Mvc/1.0.0.0__31bf3856ad364e35/System.Web.Mvc.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/system.web.mvc2.pc" lastWriteTime="2011-09-09T08:15:50+02:00" name="system.web.mvc2" version="2.0.0.0" description="System.Web.Mvc - ASP.NET MVC v2" targetFramework=".NETFramework,Version=v2.0">
+    <Assembly name="System.Web.Mvc" version="2.0.0.0" culture="neutral" publicKeyToken="31bf3856ad364e35" file="/usr/lib/mono/gac/System.Web.Mvc/2.0.0.0__31bf3856ad364e35/System.Web.Mvc.dll" />
+  </File>
+  <File path="/usr/lib/pkgconfig/talloc.pc" lastWriteTime="2011-03-26T12:34:12+02:00" />
+  <File path="/usr/lib/pkgconfig/tdb.pc" lastWriteTime="2011-03-26T12:46:44+02:00" />
+  <File path="/usr/lib/pkgconfig/theora.pc" lastWriteTime="2011-09-12T11:55:18+02:00" />
+  <File path="/usr/lib/pkgconfig/theoradec.pc" lastWriteTime="2011-09-12T11:55:18+02:00" />
+  <File path="/usr/lib/pkgconfig/theoraenc.pc" lastWriteTime="2011-09-12T11:55:18+02:00" />
+  <File path="/usr/lib/pkgconfig/tre.pc" lastWriteTime="2009-09-26T21:06:35+03:00" />
+  <File path="/usr/lib/pkgconfig/unique-1.0.pc" lastWriteTime="2011-02-13T16:11:09+02:00" />
+  <File path="/usr/lib/pkgconfig/unique-3.0.pc" lastWriteTime="2011-06-15T17:08:36+02:00" />
+  <File path="/usr/lib/pkgconfig/usbutils.pc" lastWriteTime="2011-08-17T18:03:19+02:00" />
+  <File path="/usr/lib/pkgconfig/uuid.pc" lastWriteTime="2011-09-19T22:44:10+02:00" />
+  <File path="/usr/lib/pkgconfig/vdehist.pc" lastWriteTime="2010-08-12T14:31:05+03:00" />
+  <File path="/usr/lib/pkgconfig/vdemgmt.pc" lastWriteTime="2010-08-12T14:31:05+03:00" />
+  <File path="/usr/lib/pkgconfig/vdeplug.pc" lastWriteTime="2010-08-12T14:31:05+03:00" />
+  <File path="/usr/lib/pkgconfig/vdesnmp.pc" lastWriteTime="2010-08-12T14:31:05+03:00" />
+  <File path="/usr/lib/pkgconfig/vdpau.pc" lastWriteTime="2011-02-09T14:00:46+02:00" />
+  <File path="/usr/lib/pkgconfig/videoproto.pc" lastWriteTime="2010-08-23T11:17:53+03:00" />
+  <File path="/usr/lib/pkgconfig/vorbis.pc" lastWriteTime="2010-12-06T03:53:56+02:00" />
+  <File path="/usr/lib/pkgconfig/vorbisenc.pc" lastWriteTime="2010-12-06T03:53:56+02:00" />
+  <File path="/usr/lib/pkgconfig/vorbisfile.pc" lastWriteTime="2010-12-06T03:53:56+02:00" />
+  <File path="/usr/lib/pkgconfig/vpx.pc" lastWriteTime="2011-08-16T23:16:20+02:00" />
+  <File path="/usr/lib/pkgconfig/wavpack.pc" lastWriteTime="2010-02-18T02:36:10+02:00" />
+  <File path="/usr/lib/pkgconfig/wcf.pc" lastWriteTime="2011-09-09T08:15:50+02:00" />
+  <File path="/usr/lib/pkgconfig/webkit-1.0.pc" lastWriteTime="2011-09-27T17:42:48+02:00" />
+  <File path="/usr/lib/pkgconfig/x11-xcb.pc" lastWriteTime="2011-08-02T17:10:08+02:00" />
+  <File path="/usr/lib/pkgconfig/x11.pc" lastWriteTime="2011-08-02T17:10:08+02:00" />
+  <File path="/usr/lib/pkgconfig/x264.pc" lastWriteTime="2011-06-18T16:39:33+02:00" />
+  <File path="/usr/lib/pkgconfig/xau.pc" lastWriteTime="2010-08-23T10:44:43+03:00" />
+  <File path="/usr/lib/pkgconfig/xaw6.pc" lastWriteTime="2011-01-19T17:05:09+02:00" />
+  <File path="/usr/lib/pkgconfig/xaw7.pc" lastWriteTime="2011-01-19T17:05:09+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-atom.pc" lastWriteTime="2011-09-10T18:40:22+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-aux.pc" lastWriteTime="2011-09-10T18:40:22+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-composite.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-damage.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-dpms.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-dri2.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-event.pc" lastWriteTime="2011-09-10T18:40:22+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-glx.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-icccm.pc" lastWriteTime="2011-09-10T18:40:22+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-image.pc" lastWriteTime="2011-09-10T18:40:22+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-keysyms.pc" lastWriteTime="2011-09-10T18:40:22+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-property.pc" lastWriteTime="2011-09-10T18:40:22+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-proto.pc" lastWriteTime="2010-08-19T14:23:20+03:00" />
+  <File path="/usr/lib/pkgconfig/xcb-randr.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-record.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-render.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-renderutil.pc" lastWriteTime="2011-09-10T18:40:23+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-reply.pc" lastWriteTime="2011-09-10T18:40:22+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-res.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-screensaver.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-shape.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-shm.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-sync.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-xevie.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-xf86dri.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-xfixes.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-xinerama.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-xinput.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-xprint.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-xtest.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-xv.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb-xvmc.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcb.pc" lastWriteTime="2011-05-04T10:32:40+02:00" />
+  <File path="/usr/lib/pkgconfig/xcomposite.pc" lastWriteTime="2010-11-02T00:07:11+02:00" />
+  <File path="/usr/lib/pkgconfig/xcursor.pc" lastWriteTime="2011-07-08T15:01:03+02:00" />
+  <File path="/usr/lib/pkgconfig/xdamage.pc" lastWriteTime="2010-06-09T09:50:37+03:00" />
+  <File path="/usr/lib/pkgconfig/xdmcp.pc" lastWriteTime="2010-10-31T18:12:13+02:00" />
+  <File path="/usr/lib/pkgconfig/xext.pc" lastWriteTime="2011-05-09T15:33:53+02:00" />
+  <File path="/usr/lib/pkgconfig/xextproto.pc" lastWriteTime="2011-03-16T21:57:47+02:00" />
+  <File path="/usr/lib/pkgconfig/xf86dgaproto.pc" lastWriteTime="2009-10-11T12:54:04+03:00" />
+  <File path="/usr/lib/pkgconfig/xf86vidmodeproto.pc" lastWriteTime="2011-01-19T13:34:33+02:00" />
+  <File path="/usr/lib/pkgconfig/xfixes.pc" lastWriteTime="2011-04-11T12:41:10+02:00" />
+  <File path="/usr/lib/pkgconfig/xfont.pc" lastWriteTime="2011-08-11T09:14:41+02:00" />
+  <File path="/usr/lib/pkgconfig/xft.pc" lastWriteTime="2010-10-31T18:08:45+02:00" />
+  <File path="/usr/lib/pkgconfig/xi.pc" lastWriteTime="2011-07-07T19:23:38+02:00" />
+  <File path="/usr/lib/pkgconfig/xinerama.pc" lastWriteTime="2010-11-02T00:12:25+02:00" />
+  <File path="/usr/lib/pkgconfig/xineramaproto.pc" lastWriteTime="2011-01-19T13:38:30+02:00" />
+  <File path="/usr/lib/pkgconfig/xkbfile.pc" lastWriteTime="2010-10-31T17:45:56+02:00" />
+  <File path="/usr/lib/pkgconfig/xkbui.pc" lastWriteTime="2010-04-19T11:51:57+03:00" />
+  <File path="/usr/lib/pkgconfig/xmu.pc" lastWriteTime="2010-10-31T18:03:14+02:00" />
+  <File path="/usr/lib/pkgconfig/xmuu.pc" lastWriteTime="2010-10-31T18:03:14+02:00" />
+  <File path="/usr/lib/pkgconfig/xorg-evdev.pc" lastWriteTime="2011-08-10T10:40:17+02:00" />
+  <File path="/usr/lib/pkgconfig/xorg-synaptics.pc" lastWriteTime="2011-09-05T07:50:58+02:00" />
+  <File path="/usr/lib/pkgconfig/xpm.pc" lastWriteTime="2010-10-31T18:00:07+02:00" />
+  <File path="/usr/lib/pkgconfig/xproto.pc" lastWriteTime="2011-07-08T00:34:08+02:00" />
+  <File path="/usr/lib/pkgconfig/xrandr.pc" lastWriteTime="2011-07-07T19:26:31+02:00" />
+  <File path="/usr/lib/pkgconfig/xrender.pc" lastWriteTime="2010-06-09T09:47:45+03:00" />
+  <File path="/usr/lib/pkgconfig/xscrnsaver.pc" lastWriteTime="2010-10-31T17:43:06+02:00" />
+  <File path="/usr/lib/pkgconfig/xt.pc" lastWriteTime="2011-03-11T14:17:11+02:00" />
+  <File path="/usr/lib/pkgconfig/xtst.pc" lastWriteTime="2010-10-31T17:56:57+02:00" />
+  <File path="/usr/lib/pkgconfig/xv.pc" lastWriteTime="2010-10-31T17:54:30+02:00" />
+  <File path="/usr/lib/pkgconfig/xvmc.pc" lastWriteTime="2010-08-17T10:09:09+03:00" />
+  <File path="/usr/lib/pkgconfig/xxf86dga.pc" lastWriteTime="2010-10-31T17:52:12+02:00" />
+  <File path="/usr/lib/pkgconfig/xxf86vm.pc" lastWriteTime="2010-10-31T17:48:26+02:00" />
+  <File path="/usr/lib/pkgconfig/zlib.pc" lastWriteTime="2011-08-14T02:04:11+02:00" />
+</PcFileCache>

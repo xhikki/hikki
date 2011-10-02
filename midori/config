@@ -1,0 +1,11 @@
+
+[settings]
+default-encoding=ISO-8859-1
+monospace-font-family=Terminus
+last-window-width=1278
+last-window-height=779
+show-crash-dialog=false
+location-entry-search=https://duckduckgo.com/?q=%s
+enable-html5-database=true
+identify-as=MIDORI_IDENT_SAFARI
+user-agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-us) AppleWebKit/534+ (KHTML, like Gecko) Version/5.0 Safari/534.26+ Midori/0.4

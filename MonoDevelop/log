@@ -1,0 +1,62 @@
+WARNING [2011-09-29 19:22:26Z]: Inotify watch limit is too low (8192).
+MonoDevelop will switch to managed file watching.
+See http://monodevelop.com/Inotify_Watches_Limit for more info.
+node `classlib-gecko' is not defined on the documentation map
+ERROR [2011-09-29 19:22:33Z]: [MonoDevelop.DesignerSupport.Toolbox.ExternalLoader] ToolboxItemToolboxLoader: assembly '/usr/lib/monodevelop/AddIns/MonoDevelop.GtkCore/libstetic.dll' references unknown runtime version.
+ERROR [2011-09-29 19:22:33Z]: ToolboxItemToolboxLoader: assembly '/usr/lib/monodevelop/AddIns/MonoDevelop.GtkCore/libstetic.dll' references unknown runtime version.
+ERROR [2011-09-29 19:22:36Z]: ToolboxItemToolboxLoader: assembly '/usr/lib/mono/gac/System.Web/4.0.0.0__b03f5f7f11d50a3a/System.Web.dll' references unknown runtime version.
+ERROR [2011-09-29 19:22:36Z]: [MonoDevelop.DesignerSupport.Toolbox.ExternalLoader] ToolboxItemToolboxLoader: assembly '/usr/lib/mono/gac/System.Web/4.0.0.0__b03f5f7f11d50a3a/System.Web.dll' references unknown runtime version.
+ERROR [2011-09-29 19:22:37Z]: ToolboxItemToolboxLoader: assembly '/usr/lib/mono/gac/System.Web.Extensions/4.0.0.0__31bf3856ad364e35/System.Web.Extensions.dll' references unknown runtime version.
+ERROR [2011-09-29 19:22:37Z]: [MonoDevelop.DesignerSupport.Toolbox.ExternalLoader] ToolboxItemToolboxLoader: assembly '/usr/lib/mono/gac/System.Web.Extensions/4.0.0.0__31bf3856ad364e35/System.Web.Extensions.dll' references unknown runtime version.
+ERROR [2011-09-29 19:23:08Z]: Gtk-Critical: gtk_file_chooser_default_set_current_name: assertion `impl->action == GTK_FILE_CHOOSER_ACTION_SAVE || impl->action == GTK_FILE_CHOOSER_ACTION_CREATE_FOLDER' failed
+Stack trace: 
+   at Gtk.FileChooserDialog.set_CurrentName(System.String value)
+   at MonoDevelop.Components.Extensions.SelectFileDialog`1[[MonoDevelop.Components.Extensions.SelectFileDialogData, MonoDevelop.Ide, Version=2.6.0.0, Culture=neutral, PublicKeyToken=null]].SetDefaultProperties(MonoDevelop.Components.FileSelector fdiag) in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Components.Extensions/ISelectFileDialog.cs:line 312
+   at MonoDevelop.Components.Extensions.SelectFileDialog`1[[MonoDevelop.Components.Extensions.SelectFileDialogData, MonoDevelop.Ide, Version=2.6.0.0, Culture=neutral, PublicKeyToken=null]].RunDefault() in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Components.Extensions/ISelectFileDialog.cs:line 352
+   at MonoDevelop.Components.Extensions.PlatformDialog`1[[MonoDevelop.Components.Extensions.SelectFileDialogData, MonoDevelop.Ide, Version=2.6.0.0, Culture=neutral, PublicKeyToken=null]].Run() in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Components.Extensions/PlatformDialog.cs:line 100
+   at MonoDevelop.Components.Extensions.SelectFileDialog`1[[MonoDevelop.Components.Extensions.SelectFileDialogData, MonoDevelop.Ide, Version=2.6.0.0, Culture=neutral, PublicKeyToken=null]].Run() in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Components.Extensions/ISelectFileDialog.cs:line 340
+   at MonoDevelop.Components.FolderEntry.ShowBrowseDialog(System.String name, System.String start_in) in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Components/FolderEntry.cs:line 56
+   at MonoDevelop.Components.BaseFileEntry.OnButtonClicked(System.Object o, System.EventArgs args) in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Components/BaseFileEntry.cs:line 104
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) in /build/src/mono-2.10.5/mcs/class/corlib/System.Reflection/MonoMethod.cs:line 226
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters) in /build/src/mono-2.10.5/mcs/class/corlib/System.Reflection/MethodBase.cs:line 96
+   at System.Delegate.DynamicInvokeImpl(System.Object[] args) in /build/src/mono-2.10.5/mcs/class/corlib/System/Delegate.cs:line 408
+   at System.MulticastDelegate.DynamicInvokeImpl(System.Object[] args) in /build/src/mono-2.10.5/mcs/class/corlib/System/MulticastDelegate.cs:line 70
+   at System.Delegate.DynamicInvoke(System.Object[] args) in /build/src/mono-2.10.5/mcs/class/corlib/System/Delegate.cs:line 382
+   at GLib.Signal.ClosureInvokedCB(System.Object o, GLib.ClosureInvokedArgs args)
+   at GLib.SignalClosure.Invoke(GLib.ClosureInvokedArgs args)
+   at GLib.SignalClosure.MarshalCallback(IntPtr raw_closure, IntPtr return_val, UInt32 n_param_vals, IntPtr param_values, IntPtr invocation_hint, IntPtr marshal_data)
+   at Gtk.Dialog.gtk_dialog_run(IntPtr )
+   at Gtk.Dialog.Run()
+   at MonoDevelop.Ide.MessageService.RunCustomDialog(Gtk.Dialog dialog, Gtk.Window parent) in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Ide/MessageService.cs:line 308
+   at MonoDevelop.Ide.MessageService.ShowCustomDialog(Gtk.Dialog dialog, Gtk.Window parent) in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Ide/MessageService.cs:line 283
+   at MonoDevelop.Ide.MessageService.ShowCustomDialog(Gtk.Dialog dialog) in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Ide/MessageService.cs:line 277
+   at MonoDevelop.Ide.ProjectOperations.NewSolution(System.String defaultTemplate) in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Ide/ProjectOperations.cs:line 600
+   at MonoDevelop.Ide.ProjectOperations.NewSolution() in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Ide/ProjectOperations.cs:line 592
+   at MonoDevelop.Ide.Commands.NewProjectHandler.Run() in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Ide.Commands/FileCommands.cs:line 137
+   at MonoDevelop.Components.Commands.CommandHandler.Run(System.Object dataItem) in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Components.Commands/CommandHandler.cs:line 61
+   at MonoDevelop.Components.Commands.CommandHandler.InternalRun(System.Object dataItem) in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Components.Commands/CommandHandler.cs:line 42
+   at MonoDevelop.Components.Commands.CommandManager.DefaultDispatchCommand(MonoDevelop.Components.Commands.ActionCommand cmd, MonoDevelop.Components.Commands.CommandInfo info, System.Object dataItem, System.Object target, CommandSource source) in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Components.Commands/CommandManager.cs:line 648
+   at MonoDevelop.Components.Commands.CommandManager.DispatchCommand(System.Object commandId, System.Object dataItem, System.Object initialTarget, CommandSource source) in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Components.Commands/CommandManager.cs:line 619
+   at MonoDevelop.Components.Commands.CommandManager.DispatchCommand(System.Object commandId) in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Components.Commands/CommandManager.cs:line 513
+   at MonoDevelop.WelcomePage.WelcomePageView.HandleLinkAction(System.String uri) in /build/src/monodevelop-2.6/src/addins/WelcomePage/WelcomePageView.cs:line 271
+   at MonoDevelop.WelcomePage.WelcomePageWidget.HandleLink(System.Object sender, System.EventArgs e) in /build/src/monodevelop-2.6/src/addins/WelcomePage/WelcomePageWidget.cs:line 218
+   at System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod , System.Object , System.Object[] , System.Exception ByRef )
+   at System.Reflection.MonoMethod.Invoke(System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) in /build/src/mono-2.10.5/mcs/class/corlib/System.Reflection/MonoMethod.cs:line 226
+   at System.Reflection.MethodBase.Invoke(System.Object obj, System.Object[] parameters) in /build/src/mono-2.10.5/mcs/class/corlib/System.Reflection/MethodBase.cs:line 96
+   at System.Delegate.DynamicInvokeImpl(System.Object[] args) in /build/src/mono-2.10.5/mcs/class/corlib/System/Delegate.cs:line 408
+   at System.MulticastDelegate.DynamicInvokeImpl(System.Object[] args) in /build/src/mono-2.10.5/mcs/class/corlib/System/MulticastDelegate.cs:line 70
+   at System.Delegate.DynamicInvoke(System.Object[] args) in /build/src/mono-2.10.5/mcs/class/corlib/System/Delegate.cs:line 382
+   at GLib.Signal.ClosureInvokedCB(System.Object o, GLib.ClosureInvokedArgs args)
+   at GLib.SignalClosure.Invoke(GLib.ClosureInvokedArgs args)
+   at GLib.SignalClosure.MarshalCallback(IntPtr raw_closure, IntPtr return_val, UInt32 n_param_vals, IntPtr param_values, IntPtr invocation_hint, IntPtr marshal_data)
+   at Gtk.Application.gtk_main()
+   at Gtk.Application.Run()
+   at MonoDevelop.Ide.IdeApp.Run() in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Ide/Ide.cs:line 384
+   at MonoDevelop.Ide.IdeStartup.Run(System.String[] args) in /build/src/monodevelop-2.6/src/core/MonoDevelop.Ide/MonoDevelop.Ide/IdeStartup.cs:line 265
+   at MonoDevelop.Startup.MonoDevelopMain.Main(System.String[] args) in /build/src/monodevelop-2.6/src/core/MonoDevelop.Startup/MonoDevelop.Startup/MonoDevelopMain.cs:line 24
+ERROR [2011-09-29 19:24:09Z]: Can't create syntax mode directory
+System.UnauthorizedAccessException: Access to the path "/usr/lib/monodevelop/bin/../data/HighlightingSchemes" is denied.
+  at System.IO.Directory.CreateDirectoriesInternal (System.String path) [0x0006e] in /build/src/mono-2.10.5/mcs/class/corlib/System.IO/Directory.cs:122 
+  at System.IO.Directory.CreateDirectory (System.String path) [0x000a4] in /build/src/mono-2.10.5/mcs/class/corlib/System.IO/Directory.cs:83 
+  at MonoDevelop.SourceEditor.SourceEditorDisplayBinding.LoadCustomStylesAndModes () [0x00016] in /build/src/monodevelop-2.6/src/addins/MonoDevelop.SourceEditor2/MonoDevelop.SourceEditor/SourceEditorDisplayBinding.cs:57 

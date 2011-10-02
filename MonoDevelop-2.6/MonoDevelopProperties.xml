@@ -1,0 +1,191 @@
+﻿<MonoDevelopProperties version="2.0">
+  <Property key="MonoDevelop.Core.FirstRun" value="False" />
+  <Property key="MonoDevelop.Ide.UserInterfaceTheme" value="" />
+  <Property key="MonoDevelop.Ide.UserInterfaceLanguage" value="" />
+  <Property key="MonoDevelop.EnableInstrumentation" value="False" />
+  <Property key="MonoDevelop.Ide.DefaultTargetRuntime" value="__current" />
+  <Property key="MonoDevelop.EnableAutomatedTesting" value="False" />
+  <Property key="MonoDevelop.Debugger.DebuggingService.EnginePriority" value="Mono.Debugger.Soft,Mono.Debugger.Soft.Custom,Mono.Debugger.Soft.Moonlight,Mono.Debugger.Soft.AspNet" />
+  <Property key="MonoDevelop.ToolbarSize" value="Menu" />
+  <Property key="MonoDevelop.Ide.WorkbenchCompactness" value="Normal" />
+  <Property key="SharpDevelop.Workbench.WorkbenchMemento">
+    <Property key="bounds" value="50, 50, 1180, 650" />
+    <Property key="windowState" value="Maximized" />
+    <Property key="fullscreen" value="False" />
+    <Property key="toolbarStatus">
+      <DockToolbarFrameStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <version>2</version>
+        <layout id="">
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Standard">
+            <visible>true</visible>
+            <dockedPosition offset="0" row="0" placement="Top" />
+          </dockbar>
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Search">
+            <visible>true</visible>
+            <dockedPosition offset="298" row="0" placement="Top" />
+          </dockbar>
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Build">
+            <visible>true</visible>
+            <dockedPosition offset="506" row="0" placement="Top" />
+          </dockbar>
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Layout">
+            <visible>true</visible>
+            <dockedPosition offset="818" row="0" placement="Top" />
+          </dockbar>
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Navigation">
+            <visible>true</visible>
+            <dockedPosition offset="944" row="0" placement="Top" />
+          </dockbar>
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Debugger">
+            <visible>true</visible>
+            <dockedPosition offset="1035" row="0" placement="Top" />
+          </dockbar>
+        </layout>
+        <layout id="Default">
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Standard">
+            <visible>true</visible>
+            <dockedPosition offset="0" row="0" placement="Top" />
+          </dockbar>
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Search">
+            <visible>true</visible>
+            <dockedPosition offset="298" row="0" placement="Top" />
+          </dockbar>
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Build">
+            <visible>true</visible>
+            <dockedPosition offset="506" row="0" placement="Top" />
+          </dockbar>
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Layout">
+            <visible>true</visible>
+            <dockedPosition offset="818" row="0" placement="Top" />
+          </dockbar>
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Navigation">
+            <visible>true</visible>
+            <dockedPosition offset="1053" row="0" placement="Top" />
+          </dockbar>
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Debugger">
+            <visible>true</visible>
+            <dockedPosition offset="1144" row="0" placement="Top" />
+          </dockbar>
+        </layout>
+        <layout id="Solution">
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Standard">
+            <visible>true</visible>
+            <dockedPosition offset="0" row="0" placement="Top" />
+          </dockbar>
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Search">
+            <visible>true</visible>
+            <dockedPosition offset="298" row="0" placement="Top" />
+          </dockbar>
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Build">
+            <visible>true</visible>
+            <dockedPosition offset="506" row="0" placement="Top" />
+          </dockbar>
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Layout">
+            <visible>true</visible>
+            <dockedPosition offset="818" row="0" placement="Top" />
+          </dockbar>
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Navigation">
+            <visible>true</visible>
+            <dockedPosition offset="1053" row="0" placement="Top" />
+          </dockbar>
+          <dockbar id="/MonoDevelop/Ide/Toolbar/Debugger">
+            <visible>true</visible>
+            <dockedPosition offset="1144" row="0" placement="Top" />
+          </dockbar>
+        </layout>
+      </DockToolbarFrameStatus>
+    </Property>
+  </Property>
+  <Property key="MonoDevelop.Ide.CustomPadFont" value="" />
+  <Property key="MonoDevelop.Ide.ExtensibleTreeView.Zoom.ProjectPad" value="1" />
+  <Property key="SharpDevelop.UI.SelectStyleOptions">
+    <Property key="MonoDevelop.Core.Gui.FileScout.ShowHidden" value="False" />
+  </Property>
+  <Property key="MonoDevelop.Core.Gui.Dialogs.NewProjectDialog.DefaultPath" value="/home/hikki/Projects" />
+  <Property key="MonoDevelop.Core.Gui.FileScout.ShowHidden" value="False" />
+  <Property key="SharpDevelop.TaskList.ShowErrors" value="True" />
+  <Property key="SharpDevelop.TaskList.ShowWarnings" value="True" />
+  <Property key="SharpDevelop.TaskList.ShowMessages" value="True" />
+  <Property key="Monodevelop.ErrorListColumns" value="TRUE;TRUE;TRUE;TRUE;TRUE;TRUE;TRUE" />
+  <Property key="MonoDevelop.Ide.CustomOutputPadFont" value="" />
+  <Property key="Monodevelop.UserTasksHighPrioColor" value="" />
+  <Property key="Monodevelop.UserTasksNormalPrioColor" value="" />
+  <Property key="Monodevelop.UserTasksLowPrioColor" value="" />
+  <Property key="Monodevelop.TaskList.ActiveView" value="MonoDevelop.Ide.Tasks.CommentTasksView" />
+  <Property key="Monodevelop.TaskListTokens" value="FIXME:2;TODO:1;HACK:1;UNDONE:0" />
+  <Property key="Monodevelop.CommentTasksColumns" value="TRUE;TRUE;TRUE;TRUE" />
+  <Property key="ToolboxIsInCompactMode" value="False" />
+  <Property key="MonoDevelop.PropertyPad.ShowHelp" value="True" />
+  <Property key="MonoDevelop.Ide.ExtensibleTreeView.Zoom.MonoDevelop.NUnit.TestPad" value="1" />
+  <Property key="MonoDevelop.Core.Gui.CurrentWorkbenchLayout" value="Default" />
+  <Property key="MonoDevelop.Ide.AddinUpdater.CkeckForUpdates" value="True" />
+  <Property key="MonoDevelop.Ide.AddinUpdater.LastCheck" value="09/29/2011 19:22:30" />
+  <Property key="MonoDevelop.Ide.AddinUpdater.UpdateSpanValue" value="1" />
+  <Property key="MonoDevelop.Ide.AddinUpdater.UpdateSpanUnit" value="D" />
+  <Property key="MonoDevelop.Core.Gui.Dialog.TipOfTheDayView.ShowTipsAtStartup" value="False" />
+  <Property key="AppUpdater.CheckAutomatically" value="True" />
+  <Property key="AppUpdate.UpdateLevel" value="Stable" />
+  <Property key="WelcomePage.ShowOnStartup" value="True" />
+  <Property key="WelcomePage.UpdateFromInternet" value="True" />
+  <Property key="SharpDevelop.LoadDocumentProperties" value="True" />
+  <Property key="MonoDevelop.Core.LastRunVersion" value="5" />
+  <Property key="MonoDevelop.Core.LastRunRevision" value="0" />
+  <Property key="SharpDevelop.LoadPrevProjectOnStartup" value="False" />
+  <Property key="MonoDevelop.GtkCore.ShowNonContainerWarning" value="True" />
+  <Property key="Dialogs.NewProjectDialog.RecentTemplates" value="CSharpEmptyProject" />
+  <Property key="Dialogs.NewProjectDialog.LastSelectedCategory" value="C#" />
+  <Property key="MonoDevelop.Ide.BuildWithMSBuild" value="False" />
+  <Property key="MonoDevelop.Ide.MSBuildVerbosity" value="Normal" />
+  <Property key="Monodevelop.FileSelector.LastPattern" value="*" />
+  <Property key="MonoDevelop.FileSelector.LastPath" value="/home/hikki/src" />
+  <Property key="MonoDevelop.Core.Gui.Dialogs.NewProjectDialog.AutoCreateProjectSubdir" value="True" />
+  <Property key="MonoDevelop.Ide.ExtensibleTreeView.Zoom.ClassPad" value="1" />
+  <Property key="WelcomePage.CloseWhenSolutionOpened" value="True" />
+  <Property key="Dialogs.NewFileDialog.LastSelectedCategory.DotNet.C#" value="Gtk" />
+  <Property key="XmlEditor.AddIn.Options">
+    <Property key="ShowSchemaAnnotation" value="False" />
+    <Property key="AutoCompleteElements" value="False" />
+    <Property key="AutoInsertFragment" value="False" />
+  </Property>
+  <Property key="Author.Copyright" value="hikki" />
+  <Property key="Author.Company" value="" />
+  <Property key="Author.Trademark" value="" />
+  <Property key="MonoDevelop.TextEditor.Document.Document.DefaultDocumentAggregatorProperties" />
+  <Property key="TabsToSpaces" value="False" />
+  <Property key="TabIsReindent" value="False" />
+  <Property key="EnableSemanticHighlighting" value="False" />
+  <Property key="AutoInsertMatchingBracket" value="False" />
+  <Property key="SmartSemicolonPlacement" value="False" />
+  <Property key="EnableCodeCompletion" value="True" />
+  <Property key="EnableParameterInsight" value="True" />
+  <Property key="UnderlineErrors" value="True" />
+  <Property key="IndentStyle" value="Smart" />
+  <Property key="ShowLineNumberMargin" value="True" />
+  <Property key="ShowFoldMargin" value="True" />
+  <Property key="ShowInvalidLines" value="True" />
+  <Property key="ShowTabs" value="False" />
+  <Property key="ShowEolMarkers" value="False" />
+  <Property key="HighlightCaretLine" value="False" />
+  <Property key="ShowSpaces" value="False" />
+  <Property key="EnableSyntaxHighlighting" value="True" />
+  <Property key="HighlightMatchingBracket" value="True" />
+  <Property key="ShowRuler" value="False" />
+  <Property key="FontName" value="Mono 10" />
+  <Property key="ColorScheme" value="Default" />
+  <Property key="DefaultRegionsFolding" value="False" />
+  <Property key="DefaultCommentFolding" value="True" />
+  <Property key="UseViModes" value="False" />
+  <Property key="OnTheFlyFormatting" value="False" />
+  <Property key="EnableAutoCodeCompletion" value="True" />
+  <Property key="CompleteWithSpaceOrPunctuation" value="True" />
+  <Property key="ControlLeftRightMode" value="MonoDevelop" />
+  <Property key="EnableAnimations" value="True" />
+  <Property key="FontProperties" />
+  <Property key="MonoDevelop.Projects.Text.ConversionEncodings" value="" />
+  <Property key="MonoDevelop.Ide.NewShowMessageBubbles" value="ForErrorsAndWarnings" />
+  <Property key="MonoDevelop.GtkCore.AutoSwitchGuiLayout" value="False" />
+  <Property key="MonoDevelop.Ide.BuildBeforeExecuting" value="True" />
+  <Property key="MonoDevelop.Ide.BeforeCompileAction" value="SaveAllFiles" />
+  <Property key="MonoDevelop.Ide.NewShowErrorPadAfterBuild" value="Never" />
+  <Property key="MonoDevelop.Ide.NewJumpToFirstErrorOrWarning" value="Error" />
+</MonoDevelopProperties>
